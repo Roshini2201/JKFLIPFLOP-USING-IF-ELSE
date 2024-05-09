@@ -32,17 +32,41 @@ By using three variable K-Map, we can get the simplified expression for next sta
 
 The maximum possible groupings of adjacent ones are already shown in the figure. Therefore, the simplified expression for next state Qt+1t+1 is Q(t+1)=JQ(t)′+K′Q(t)Q(t+1)=JQ(t)′+K′Q(t)
 
-**Procedure**
+**Procedure**  
 
-/* write all the steps invloved */
+1.Go to quartus software.  
+
+2.Set new environment.  
+
+3.Type the code to implement SR flipflop using verilog and validating their functionality using their functional tables.  
+
+4.Run the program.  
+
+5.Give inputs in the waveform table.  
+
+6.Run the program.  
+
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+/* Program for flipflops and verify its truth table in quartus using Verilog programming.  
+Developed by:ROSHINI S  
+RegisterNumber: 212223240142  
 */
+![328811136-ea488cba-1529-4620-9473-7ed7b4bac771](https://github.com/Roshini2201/JKFLIPFLOP-USING-IF-ELSE/assets/154105318/6df03898-6ef6-4487-b844-535e64de5b2c)
+
+
 
 **RTL LOGIC FOR FLIPFLOPS**
 
+![328811135-d9ed2faa-49c5-49f6-9e6f-24dca15dc0be](https://github.com/Roshini2201/JKFLIPFLOP-USING-IF-ELSE/assets/154105318/b300c714-518a-4109-8e5d-c195a2358817)
+
+
 **TIMING DIGRAMS FOR FLIP FLOPS**
 
+![328811140-7078a3af-2bc2-4336-a8ba-ae97204ea571](https://github.com/Roshini2201/JKFLIPFLOP-USING-IF-ELSE/assets/154105318/c82a75b1-b049-4481-a5f7-3d7d87ab9405)
+
+
 **RESULTS**
+
+Implementation of JK flipflop using verilog and validating their functionality using their functional tables is executed and the output is verified successfully
