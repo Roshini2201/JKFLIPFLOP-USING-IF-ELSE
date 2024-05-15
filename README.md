@@ -1,3 +1,6 @@
+## EX.NO:7
+## DATE:
+
 # JKFLIPFLOP-USING-IF-ELSE
 
 **AIM:** 
@@ -49,10 +52,10 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 
 **PROGRAM**
 
-/* Program for flipflops and verify its truth table in quartus using Verilog programming.  
-Developed by:ROSHINI S  
-RegisterNumber: 212223240142  
-*/
+### Developed by:ROSHINI S  
+### RegisterNumber: 212223240142  
+
+
 ![328811136-ea488cba-1529-4620-9473-7ed7b4bac771](https://github.com/Roshini2201/JKFLIPFLOP-USING-IF-ELSE/assets/154105318/6df03898-6ef6-4487-b844-535e64de5b2c)
 
 
